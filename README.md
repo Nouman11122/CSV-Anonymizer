@@ -35,6 +35,10 @@
 
 **CSV Anonymizer** is a Python desktop application (built with Tkinter) that enables users to load CSV files containing sensitive personal data, automatically detect PII columns, apply configurable anonymization or pseudonymization techniques, and export a privacy-safe version of the dataset alongside a detailed compliance audit report.
 
+## 👥 Authors
+
+Developed by Nouman Rana and Sajidullah Khan as a collaborative project.
+
 The tool is designed for:
 - **Researchers** who need to share datasets without exposing personal information
 - **Developers** testing systems with realistic but non-identifiable data
@@ -141,7 +145,7 @@ csv-anonymizer/
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/csv-anonymizer.git
+git clone https://github.com/Nouman11122/csv-anonymizer.git
 cd csv-anonymizer
 ```
 
